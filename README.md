@@ -9,7 +9,7 @@
 <body>
     <main> 
         <h1> Hello Kitten. .</h1>
-        <img src="/workspaces/courseraWebpage/panic.jpeg" alt="kitten">
+        <img src="panic.jpeg" alt="kitten">
         <p> please text me pls pls plssssss</p>
         <img src="onoin.jpeg" alt="emoji happy">
         <h3> Reasons:</h3>
@@ -20,7 +20,7 @@
             <li> <a href="https://www.youtube.com/watch?v=eRBOgtp0Hac"> I am a silly guy</a>
             </li>
         </ol>
-        <img src="/workspaces/courseraWebpage/congress.jpeg" alt="lone wolf">
+        <img src="congress.jpeg" alt="lone wolf">
     </main>
 </body>
 </html>
